@@ -1,5 +1,5 @@
 <h2>Hey there! I'm RileCraft.</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RileCraft" alt="RileCraft" /> </p>
 ### 👨🏻‍💻 &nbsp;About Me
 
 📌 ╎ Im RileCraft and i am currently a student who likes to program and do dumb things when bored or free.<br>
@@ -18,6 +18,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 📎 &nbsp;Projects
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark">
+ </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
