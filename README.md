@@ -23,6 +23,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=DiscordBot-Template&theme=chartreuse-dark">
  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
