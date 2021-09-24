@@ -21,9 +21,9 @@
 
 ### 📎 &nbsp;Projects
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=DiscordBot-Template&theme=chartreuse-dark">
+<a href="https://github.con/RileCraft/TicketsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark"></a>
+<a href="https://github.con/RileCraft/Random-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark"></a>
+<a href="https://github.con/RileCraft/DiscordBot-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=DiscordBot-Template&theme=chartreuse-dark"></a>
  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
