@@ -24,6 +24,7 @@
 <a href="https://github.com/RileCraft/TicketsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark"></a>
 <a href="https://github.com/RileCraft/Random-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark"></a>
 <a href="https://github.com/RileCraft/DiscordBot-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=DiscordBot-Template&theme=chartreuse-dark"></a>
+<a href="https://github.com/RileCraft/Discord-StarBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Discord-StarBoard&theme=chartreuse-dark"></a>
 <a href="https://github.com/RileCraft/ExpressAPI-Handler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=ExpressAPI-Handler&theme=chartreuse-dark"></a>
  </p>
 
