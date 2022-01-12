@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://github.com/RileCraft">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RileCraft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RileCraft&layout=compact&langs_count=8&theme=algolia"/>
+ ​<img src="https://github-profile-trophy.vercel.app/?username=FC5570&margin-h=25&column=7&theme=juicyfresh"> 
 </a>
 </p>
 
